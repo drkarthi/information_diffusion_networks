@@ -1,0 +1,6 @@
+{
+  "villages": [1],
+  "nodes" : ["religion","caste","mothertongue","occupation","resp_gend"],
+  "edges" : ["allVillageRelationships"],
+  "type" : ""
+}
